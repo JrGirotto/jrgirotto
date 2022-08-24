@@ -25,8 +25,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### 😂 Snake Dev
+![Snake animation](https://github.com/jrgirotto/jrgirotto/blob/output/github-contribution-grid-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jrgirotto&icon=0&color=0)](https://visitcount.itsvg.in)
