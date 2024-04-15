@@ -39,7 +39,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🤝 Contribuitions 
-![Snake animation](https://github.com/jrgirotto/jrgirotto/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/JrGirotto/jrgirotto/blob/output/github-contribution-grid-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jrgirotto&icon=0&color=0)](https://visitcount.itsvg.in)
